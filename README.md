@@ -13,4 +13,5 @@ Project Simulation
 
 https://github.com/17-doha/Dynamic-Expense-Tracker/assets/65771031/a92924cb-3bba-4bfa-b36a-4dae6f140613
 
-For the source code contact at --**dohaahemdan@gmail.com**--
+For the source code contact at --**s-doha.hassanien@zewailcity.edu.eg**-- or --**s-salma.ali@zewailcity.edu.eg**--
+
